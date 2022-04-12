@@ -32,7 +32,7 @@
 
 + Masukin Pin Yg sudah kalian buat tadi
 
-+ Tekan Ikon Panah ➜ Berwarna Biru
++ Tekan Ikon ➜ Berwarna Biru
 
 + ```Dan Rdp Pun Siap Digunakan```
 
