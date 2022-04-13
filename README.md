@@ -1,4 +1,4 @@
-  ## JANGAN LUPA KLIK LINK DIBAWAH INI⚠️⬇️
+##  JANGAN LUPA KLIK LINK DIBAWAH INI⚠️⬇️
 
  https://youtube.com/channel/UCqK3KOcJI1dmbyuiTIzlKIA?sub_confirmation=1
 
@@ -12,7 +12,7 @@
 
 + Tekan Mulai>Berikutnya>Izinkan
 
-+ Di sebelah kanan Tulisan Windows (Cmd) Ada Ikon Salin Klik Aja
++ Di sebelah kanan Tulisan Windows (PowerShell) Ada Ikon Salin,Klik Aja
 
 + Kembali Ke github
 
@@ -32,7 +32,6 @@
 
 + Masukin Pin Yg sudah kalian buat tadi
 
-+ Tekan Ikon ➜ Berwarna Biru
++ Tekan Ikon Panah ➜ Berwarna Biru
 
-+ ```Dan Rdp Pun Siap Digunakan```
-
++ Dan Rdp Pun Siap Digunakan
