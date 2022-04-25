@@ -12,7 +12,7 @@
 
 + Tekan Mulai>Berikutnya>Izinkan
 
-+ Di sebelah kanan Tulisan Windows (PowerShell) Ada Ikon Salin,Klik Aja
++ Di sebelah kanan Tulisan ```Debian Linux``` Ada Ikon Salin,Klik Aja
 
 + Kembali Ke github
 
